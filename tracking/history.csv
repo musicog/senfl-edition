@@ -12,3 +12,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-16T14:36:34.870Z,T0001,,5521800,claim_encoding,accepted,,campaign.openEditor,1,"{""task_id"":""T0001""}",10
 2026-10-17T16:43:15.792Z,T0001,,5521800,reap,released,encoding,,,,
 2026-10-19T15:21:54.456Z,T0001,,38179254,claim_encoding,accepted,,campaign.openEditor,1,"{""task_id"":""T0001""}",11
+2026-10-19T15:23:49.770Z,T0001,,38179254,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""T0001"",""subtask_id"":""""}",12
